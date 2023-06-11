@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\VS_code\\labu"
+		},
+		{
+			"path": "..\\..\\VS_code\\labu2"
+		},
+		{
+			"path": "..\\..\\VS_code\\labu3"
+		},
+		{
+			"path": "..\\..\\VS_code\\Python"
+		},
+		{
+			"path": "..\\..\\cs50"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\All syte\\Syte\\cod"
+		},
+		{
+			"path": "..\\..\\All syte\\Greece_Shcherbiy\\Greece"
+		},
+		{
+			"path": "..\\web_car2"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"random": "cpp",
+			"queue": "cpp",
+			"stack": "cpp",
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "web_car"
+	}
+}
